@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @estherbra
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning ETL tools
-- 📫 How to reach me: brasileiroesther@gmail.com
+- 🌱 I’m currently learning Deploy on Amazon EC2
+- 📫 How to reach me: https://www.linkedin.com/in/esther-brasileiro/
 
 <!---
 estherbra/estherbra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
