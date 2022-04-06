@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estherbra
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning Deploy on Amazon EC2
+- 🌱 I’m currently learning Apache Airflow
 - 📫 How to reach me: https://www.linkedin.com/in/esther-brasileiro/
 
 <!---
