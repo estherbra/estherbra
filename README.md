@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estherbra
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning Apache Airflow
+- 🌱 I’m currently learning Ecossistema Hadoop
 - 📫 How to reach me: https://www.linkedin.com/in/esther-brasileiro/
 
 <!---
