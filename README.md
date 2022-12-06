@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estherbra
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning Ecossistema Hadoop
+- 🌱 I’m currently learning Microsoft Azure Fundamentals
 - 📫 How to reach me: https://www.linkedin.com/in/esther-brasileiro/
 
 <!---
